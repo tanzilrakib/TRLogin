@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TR Login</string>
+    <string name="register"><u>No account?\nPlease register.</u></string>
+</resources>
